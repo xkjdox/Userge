@@ -65,6 +65,7 @@ def _get_mode() -> str:
 def _get_alive_text_and_markup(message: Message) -> Tuple[str, Optional[InlineKeyboardMarkup]]:
     markup = None
     output = f"""
+**🤖 Mod By** : `{@user_legend}`
 **⏱ Uptime** : `{userge.uptime}`
 **💡 Version** : `{get_version()}`
 **⚙️ Mode** : `{_get_mode().upper()}`
