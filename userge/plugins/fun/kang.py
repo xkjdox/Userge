@@ -255,13 +255,13 @@ def resize_photo(photo: str) -> io.BytesIO:
 
 
 KANGING_STR = (
-    "Using Witchery to kang this sticker...",
-    "Plagiarising hehe...",
-    "Inviting this sticker over to my pack...",
+    "Menggunakan Sihir Hitan Untuk Menyolong Sticker...",
+    "Nyolong Dulu hehe...",
+    "Ngajak Sticker Aliansi...",
     "Kanging this sticker...",
     "Hey that's a nice sticker!\nMind if I kang?!..",
     "hehe me stel ur stikér\nhehe.",
     "Ay look over there (☉｡☉)!→\nWhile I kang this...",
-    "Roses are red violets are blue, kanging this sticker so my pacc looks cool",
-    "Imprisoning this sticker...",
-    "Mr.Steal Your Sticker is stealing this sticker... ")
+    "Mawar itu biru, Violet itu merah, Tytyd mu kecil , Ijin Colong sticker Ini...",
+    "Sticker Mu Bagus...",
+    "Tidak, ini bukan sticker mu... ini sticker kita ! ")
